@@ -1,0 +1,2 @@
+c:\users\eigenaar\documents\visual studio 2013\Projects\GameSE2\GameSE2\bin\Debug\GameSE2.exe.config
+C:\Users\Eigenaar\Desktop\GameSE2\GameSE2\bin\Debug\GameSE2.exe.config
